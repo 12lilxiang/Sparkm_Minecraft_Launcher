@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SparkmLauncher.vcxproj" Id="a242ebf4-d63d-40b9-ab31-c1d9c197ebb1" />
+</Solution>

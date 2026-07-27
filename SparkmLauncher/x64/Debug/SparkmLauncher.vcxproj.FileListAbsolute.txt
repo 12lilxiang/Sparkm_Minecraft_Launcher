@@ -1,0 +1,6 @@
+E:\wdsj\SparkmLauncher\x64\Debug\libcrypto-3-x64.dll
+E:\wdsj\SparkmLauncher\x64\Debug\libcurl-d.dll
+E:\wdsj\SparkmLauncher\x64\Debug\libssl-3-x64.dll
+E:\wdsj\SparkmLauncher\x64\Debug\zd.dll
+E:\wdsj\SparkmLauncher\x64\Debug\fmtd.dll
+E:\wdsj\SparkmLauncher\SparkmLauncher\x64\Debug\SparkmLa.B0AB50B0.Up2Date
